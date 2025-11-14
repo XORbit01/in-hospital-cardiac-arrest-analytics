@@ -253,7 +253,3 @@ This project is for educational and research purposes.
 ## Contact
 
 For questions or issues, please refer to the project documentation or contact the development team.
-
-#   i n - h o s p i t a l - c a r d i a c - a r r e s t - a n a l y t i c s 
- 
- 
